@@ -1,0 +1,21 @@
+@import 'css/colors';
+
+.sans-serif {
+  font-family: -apple-system, Sans-Serif;
+  text-align: middle;
+  font-size: 28pt;
+  color: $grey-dark;
+}
+
+body {
+  background-color: $black;
+  color: $grey-light;
+}
+
+
+#processing {
+  width: 100%;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+}
