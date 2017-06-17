@@ -1,17 +1,16 @@
 @import 'css/colors';
 
 .sans-serif {
-  font-family: -apple-system, Sans-Serif;
+  font-family: sans-serif;
   text-align: middle;
   font-size: 28pt;
-  color: $grey-dark;
+  color: $grey-mid;
 }
 
 body {
   background-color: $black;
   color: $grey-light;
 }
-
 
 #processing {
   width: 100%;
